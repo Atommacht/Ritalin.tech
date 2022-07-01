@@ -1,3 +1,5 @@
+// Made by oxy dont paste you NN Fags
+
 'use strict';
 
 const ipgeolocation = 'https://api.ipgeolocation.io/ipgeo?apiKey=bb29d588f1b9402c9efe023091c4a00b';
