@@ -17,7 +17,7 @@ $(document).ready(() => {
       link: '76561199225676940',
     },
     {
-      name: 'Full Play',
+      name: 'Full_Play',
       link: '76561199042963836',
     },
   ];
