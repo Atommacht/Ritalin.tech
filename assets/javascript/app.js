@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['Ideal Tick Abuser', 'NN Slayer', 'Toe Aimer', 'Trashtalkers', 'Reichstag Kinder', 'Ritalin Konsumenten'];
+  brandDescription = ['Ideal Tick Abuser', 'NN Slayers', 'Toe Aimer', 'Trashtalkers', 'Reichstag Kinder', 'Big Dick HvHers', 'Ritalin Konsumenten'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
